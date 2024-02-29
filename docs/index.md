@@ -1,7 +1,6 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
-
 <font size="+12"><center>
 *&lt;Nome do Projeto&gt;*
 </center></font>
@@ -15,7 +14,7 @@
 - [Autores](#nome-alunos)
 - [Descrição do Projeto](#introdução-do-projeto)
 - [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
-- [Diagrama de Atividades](#diagrama-de-atividades) 
+- [Diagrama de Atividades](#diagrama-de-atividades)
 - [Diagrama de Casos de Uso](#diagrama-de-comportamento-atores)
 - [Descrição dos Casos de Uso](#descrição-das-funcões)
 - [Diagrama de Senquencia](#diagrama-de-ordem-interações)
@@ -24,24 +23,23 @@
 - [Diagrama de Implantação](#diagrama-de-hardware-software)
 - [Referências](#referências)
 
-
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
-
+- Aluno 1
+- Ian Miranda Da Cunha (10409669)
+- Aluno 3
+- Aluno 4
+- Aluno 5
+- Aluno 6
+- Aluno 7
+- Aluno 8
 
 # Descrição do Projeto
 
 *&lt;Introdução do projeto&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
+
 *&lt;Descrição dos requisitos&gt;*
 
 # Diagrama de Atividades
