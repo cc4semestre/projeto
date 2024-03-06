@@ -56,6 +56,7 @@
 --> Controle de Acesso às Informações: diferentes níveis de acesso à informação com base no papel do usuário (por exemplo, professores, administradores escolares, e alunos).
 
 
+
 *&lt;Requisitos Não-Funcionais: &gt;*
 
 --> Acessibilidade: sistema deve ser acessivel a qualquer tipo de usuário, tendo ele alguma deficiência ou não.
