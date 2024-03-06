@@ -45,7 +45,27 @@
   Por fim, priorizaremos que o sistema seja acessível a todos os usuários, incluindo aqueles que possuem determinada deficiência, e que possa ser acessado a partir de qualquer navegador web. 
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+*&lt;Requisitos Funcionais: &gt;*
+
+--> Relatório de Ausência: produção de relatórios que agrupam as ausências por data, ano do ensino, turma, professor, disciplina e nome do aluno, de tal modo que tenha a capacidade do sistema de registrar a presença dos alunos em dois momentos do dia: no início das aulas e após o intervalo
+
+--> Notificação de presença: É enviado aos pais uma notificação de presença quando o aluno tem sua porcentagem de comparecimento abaixo de 80%.
+
+--> Plataforma virtual de ensino: Suporte para diferentes tipos de usuários, tal como professores e alunos, tendo aulas, tarefas e outras utilidades a serem feitas.  
+
+--> Controle de Acesso às Informações: diferentes níveis de acesso à informação com base no papel do usuário (por exemplo, professores, administradores escolares, e alunos).
+
+
+*&lt;Requisitos Não-Funcionais: &gt;*
+
+--> Acessibilidade: sistema deve ser acessivel a qualquer tipo de usuário, tendo ele alguma deficiência ou não.
+
+--> Compatibilidade com navegadores: O site deve funcionar em todos os navegadores webs moderno, sem a necessidade de plugins ou extensões especiais. 
+
+--> Usabilidade: Ser intuitivo e facil de usar.
+
+--> Segurança: Proteção de dados dos usuários, além de ter garantia de que o acesso as informações deve ser totalmente controlada e monitorada.
+
 
 # Diagrama de Atividades
 
