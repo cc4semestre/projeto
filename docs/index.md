@@ -27,19 +27,18 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Arthur Vignati Moscardi (10409688)
+* Ian Miranda Da Cunha (10409669)
+* Guilherme Pascucci Coelho da Cruz (10314281)
 
-
+* 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+* Somos os responsáveis pela transferência do modelo de faltas feitos no papel para a implementação de um Sistema de Presenças na Escola Infinito, de modo que fique modernizado, prático e de forma intuitiva.  
+  Dessa forma, é necessário observar que a escola possuí turmas do 1° ao 5° ano do Ensino Fundamental I, sendo 20 a 30 alunos em cada sala, e, um professor principal para cada classe responsável pelas aulas de (Matemática, Português, Artes, Ciências, História e Geografia. Além disso, há outros professores responsáveis por matérias específicas, tais como  educação física e inglês. 
+  A chamada é realizada em dois momentos, sendo uma no inicio das aulas e outra após o intervalo. Para o aluno não ser reprovado por falta é necessário ter mais de 75% de presença. 
+  Além de criarmos um registro de faltas, vamos produzir um relatório contendo, de forma agrupada, as datas de ausência, ano do ensino, turma, professor, disciplina e o nome do aluno. Caso a porcentagem de comparecimento do aluno fiquem abaixo de 80% será enviado uma notificação por e-mail aos seus responsáveis. 
+  Por fim, priorizaremos que o sistema seja acessível a todos os usuários, incluindo aqueles que possuem determinada deficiência, e que possa ser acessado a partir de qualquer navegador web. 
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
