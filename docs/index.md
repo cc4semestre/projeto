@@ -30,8 +30,7 @@
 * Arthur Vignati Moscardi (10409688)
 * Ian Miranda Da Cunha (10409669)
 * Guilherme Pascucci Coelho da Cruz (10314281)
-
-* 
+* Erick Nakabayashi Dedivitis (10403532)
 # Descrição do Projeto
 
  Somos os responsáveis pela transferência do modelo de faltas feitos no papel para a implementação de um Sistema de Presenças na Escola Infinito, de modo que fique modernizado, prático e de forma intuitiva.
