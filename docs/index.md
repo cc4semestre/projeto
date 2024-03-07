@@ -66,6 +66,8 @@
 
 --> Segurança: Proteção de dados dos usuários, além de ter garantia de que o acesso as informações deve ser totalmente controlada e monitorada.
 
+--> Desempenho: 
+
 
 # Diagrama de Atividades
 
