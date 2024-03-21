@@ -24,7 +24,7 @@
 - [Diagrama de Implantação](#diagrama-de-hardware-software)
 - [Referências](#referências)
 
-
+ 
 # Autores
 
 * Arthur Vignati Moscardi (10409688)
