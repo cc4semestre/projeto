@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T13:26:57.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="pCme-pyXMcG3NV0aXYr1" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T13:29:27.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ltF0up4h7UbPSUq3Zpb6" version="24.2.0" type="github">
   <diagram name="Página-1" id="Vh1qg6BBF9lEuc6MsgIA">
     <mxGraphModel dx="2569" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -54,6 +54,12 @@
         </mxCell>
         <mxCell id="VPOFz69Hzn8sEPwOuCHB-31" value="Análise do histórico de faltas&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-420" y="1940" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VPOFz69Hzn8sEPwOuCHB-34" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VPOFz69Hzn8sEPwOuCHB-22" target="VPOFz69Hzn8sEPwOuCHB-31">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="1700" as="sourcePoint" />
+            <mxPoint x="250" y="1700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
