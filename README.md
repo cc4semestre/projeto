@@ -19,7 +19,7 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Escola Infinito>*
+# Projeto: <Escola Infinito>
 
 # Grupo: 
 * Arthur Vignati Moscardi (10409688)
