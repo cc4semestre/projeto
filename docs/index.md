@@ -70,6 +70,8 @@
 
 
 # Diagrama de Atividades
+![Diagrama de Atividade drawio](https://github.com/cc4semestre/projeto/assets/161724108/db23d79d-3dab-419a-a3b0-4301a77d9dcd)
+
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
 
@@ -78,6 +80,7 @@
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
 
 # Descrição dos Casos de Uso
+ 
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
