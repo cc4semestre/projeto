@@ -74,7 +74,7 @@
 
 
 # Diagrama de Casos de Uso
-![Diagrama de Caso de Uso drawio](https://github.com/cc4semestre/projeto/assets/161724108/6b4d7455-2ebe-4cc4-b382-03057333e246)
+![Diagrama de Caso de Uso drawio (1)](https://github.com/cc4semestre/projeto/assets/161724108/0cc33f78-b68e-4411-a35d-d78c7d499261)
 
 
 # Descrição dos Casos de Uso
