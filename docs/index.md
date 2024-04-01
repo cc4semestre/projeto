@@ -79,6 +79,8 @@
 
 # Descrição dos Casos de Uso
 [Descrição do Caso de Uso.pdf](https://github.com/cc4semestre/projeto/files/14828402/Descricao.do.Caso.de.Uso.pdf)
+![c9f3ff31_1](https://github.com/cc4semestre/projeto/assets/161724108/558a06d8-a5cb-4c9c-adec-e601040abb5a)
+![c9f3ff31_2](https://github.com/cc4semestre/projeto/assets/161724108/8e352470-b430-4f7c-ab92-8e9fa0a45d2a)
 
 
 # Diagrama de Sequência
