@@ -70,23 +70,16 @@
 
 
 # Diagrama de Atividades
-![Diagrama de Atividade drawio](https://github.com/cc4semestre/projeto/assets/161724108/db23d79d-3dab-419a-a3b0-4301a77d9dcd)
+![Diagrama de Atividade drawio (1)](https://github.com/cc4semestre/projeto/assets/161724108/e597acdc-9368-4bdd-a5c6-275e1f3fd6d8)
 
-
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
 
 # Diagrama de Casos de Uso
 ![Diagrama de Caso de Uso drawio](https://github.com/cc4semestre/projeto/assets/161724108/6b4d7455-2ebe-4cc4-b382-03057333e246)
 
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
-
 # Descrição dos Casos de Uso
 [Descrição do Caso de Uso.pdf](https://github.com/cc4semestre/projeto/files/14828402/Descricao.do.Caso.de.Uso.pdf)
 
- 
-
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
 # Diagrama de Sequência
 
