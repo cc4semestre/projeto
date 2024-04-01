@@ -66,9 +66,6 @@
 
 --> Segurança: Proteção de dados dos usuários, além de ter garantia de que o acesso as informações deve ser totalmente controlada e monitorada.
 
---> Desempenho: 
-
-
 # Diagrama de Atividades
 ![Diagrama de Atividade drawio (1)](https://github.com/cc4semestre/projeto/assets/161724108/e597acdc-9368-4bdd-a5c6-275e1f3fd6d8)
 
