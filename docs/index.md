@@ -71,6 +71,9 @@
 
 
 # Diagrama de Casos de Uso
+
+Tirar "boneco" instituição
+
 ![Diagrama de Caso de Uso drawio (2)](https://github.com/cc4semestre/projeto/assets/161724108/64bb96ab-efba-4da9-8c08-df84802c04cd)
 
 
