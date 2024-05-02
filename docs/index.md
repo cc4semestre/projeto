@@ -75,6 +75,7 @@
 
 
 # Descrição dos Casos de Uso
+Refazer a tabela no Excel. Fazer o espaçamento e separar as partes (fluxos), deixar mais amplo.
 [Descrição do Caso de Uso.pdf](https://github.com/cc4semestre/projeto/files/14828402/Descricao.do.Caso.de.Uso.pdf)
 
 
