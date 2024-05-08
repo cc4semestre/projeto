@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T22:13:37.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="lkw0wQw8U4Z_0cjMIGOq" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T22:24:34.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="ZpVSRSEh7S3RSFaEk-ST" version="24.3.1" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="758" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="Professor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="100" height="790" as="geometry" />
+          <mxGeometry x="40" y="40" width="100" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
           <mxGeometry x="50" y="120" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="Sistema de Registro e presença" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="220" y="40" width="100" height="790" as="geometry" />
+          <mxGeometry x="220" y="40" width="100" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="110" as="geometry" />
@@ -25,13 +25,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="60aS3CMGX_n7rRZTqISD-1" value="Banco de dados" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="425" y="50" width="100" height="780" as="geometry" />
+          <mxGeometry x="425" y="50" width="100" height="1330" as="geometry" />
         </mxCell>
         <mxCell id="60aS3CMGX_n7rRZTqISD-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="60aS3CMGX_n7rRZTqISD-1" vertex="1">
           <mxGeometry x="45" y="110" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="60aS3CMGX_n7rRZTqISD-5" value="Sistema de notificações" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="605" y="40" width="100" height="790" as="geometry" />
+          <mxGeometry x="605" y="40" width="100" height="1350" as="geometry" />
         </mxCell>
         <mxCell id="60aS3CMGX_n7rRZTqISD-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="60aS3CMGX_n7rRZTqISD-5" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W9O-gjuGux6550Dx2sIB-5" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=30;height=15;" vertex="1" parent="1">
-          <mxGeometry x="50" y="230" width="640" height="590" as="geometry" />
+          <mxGeometry x="50" y="230" width="640" height="560" as="geometry" />
         </mxCell>
         <mxCell id="W9O-gjuGux6550Dx2sIB-7" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=40;height=20;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="200" height="50" as="geometry" />
@@ -177,7 +177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W9O-gjuGux6550Dx2sIB-18" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=40;height=20;" vertex="1" parent="1">
-          <mxGeometry x="80" y="570" width="600" height="130" as="geometry" />
+          <mxGeometry x="60" y="570" width="620" height="130" as="geometry" />
         </mxCell>
         <mxCell id="W9O-gjuGux6550Dx2sIB-19" value="[Porcentagem abaixo de 80%]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="570" width="180" height="30" as="geometry" />
@@ -216,8 +216,104 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W9O-gjuGux6550Dx2sIB-34" value="[Porcentagem abaixo de 80%]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="720" width="180" height="30" as="geometry" />
+        <mxCell id="W9O-gjuGux6550Dx2sIB-34" value="[Autenticação falha&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="720" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-35" value="Erro de login" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="780" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="270" y="780" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-36" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=40;height=20;" vertex="1" parent="1">
+          <mxGeometry x="50" y="800" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-37" value="[Apresentação de Atestado Médico]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="800" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-38" value="Registra justificativa médica" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="850" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="185" y="850" />
+            </Array>
+            <mxPoint x="270" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-39" value="Atualiza justificativa no registro" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="60aS3CMGX_n7rRZTqISD-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="890" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="365" y="890" />
+            </Array>
+            <mxPoint x="450" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-40" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=30;height=15;" vertex="1" parent="1">
+          <mxGeometry x="50" y="910" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-41" value="[Aluno Atrasado]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="910" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-43" value="Atualiza presença para tardia" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="960" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="190" y="960" />
+            </Array>
+            <mxPoint x="270" y="960" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-45" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=30;height=20;" vertex="1" parent="1">
+          <mxGeometry x="50" y="990" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-46" value="[Sistema indisponível]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="990" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-48" value="Tentativa de login falha" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1040" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="190" y="1040" />
+            </Array>
+            <mxPoint x="270" y="1040" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-50" value="Sistema offline, tente mais tarde" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1070" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="270" y="1070" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-51" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=30;height=20;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1090" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-52" value="[Erro de Autenticação]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1090" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-54" value="Falha de autenticação" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1140" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="190" y="1140" />
+            </Array>
+            <mxPoint x="270" y="1140" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-55" value="Contato suporte técnico" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1170" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="270" y="1170" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
