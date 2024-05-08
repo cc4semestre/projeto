@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T21:56:50.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="hlg69KgAIpWAkcuKBd6M" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T21:57:24.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="xlab4zsDG4w3uYqpbl6x" version="24.3.1" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="758" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,6 +118,15 @@
             </Array>
             <mxPoint x="270" y="320" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-10" value="Atualiza registro de presença" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="60aS3CMGX_n7rRZTqISD-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="365" y="360" />
+            </Array>
+            <mxPoint x="450" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
