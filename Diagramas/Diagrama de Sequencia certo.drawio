@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T22:08:39.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="DB7_eCKSePAuWdErHCMh" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T22:13:37.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="lkw0wQw8U4Z_0cjMIGOq" version="24.3.1" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="758" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
           <mxGeometry x="45" y="110" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="60aS3CMGX_n7rRZTqISD-5" value="Sistema de notificações" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="605" y="40" width="100" height="300" as="geometry" />
+          <mxGeometry x="605" y="40" width="100" height="790" as="geometry" />
         </mxCell>
         <mxCell id="60aS3CMGX_n7rRZTqISD-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="60aS3CMGX_n7rRZTqISD-5" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W9O-gjuGux6550Dx2sIB-5" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=30;height=15;" vertex="1" parent="1">
-          <mxGeometry x="50" y="130" width="640" height="700" as="geometry" />
+          <mxGeometry x="50" y="230" width="640" height="590" as="geometry" />
         </mxCell>
         <mxCell id="W9O-gjuGux6550Dx2sIB-7" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=40;height=20;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="200" height="50" as="geometry" />
@@ -165,32 +165,59 @@
             <mxPoint x="475" y="490" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W9O-gjuGux6550Dx2sIB-17" value="Verifica necessidade de notificação" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=1;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="W9O-gjuGux6550Dx2sIB-5">
+        <mxCell id="W9O-gjuGux6550Dx2sIB-17" value="Verifica necessidade de notificação" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0556" relative="1" as="geometry">
             <mxPoint x="270" y="530" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="600" y="530" />
               <mxPoint x="365" y="530" />
             </Array>
-            <mxPoint x="450" y="530" as="targetPoint" />
+            <mxPoint x="690" y="530" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W9O-gjuGux6550Dx2sIB-18" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=40;height=20;" vertex="1" parent="1">
-          <mxGeometry x="80" y="570" width="600" height="110" as="geometry" />
+          <mxGeometry x="80" y="570" width="600" height="130" as="geometry" />
         </mxCell>
         <mxCell id="W9O-gjuGux6550Dx2sIB-19" value="[Porcentagem abaixo de 80%]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="560" width="180" height="30" as="geometry" />
+          <mxGeometry x="280" y="570" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W9O-gjuGux6550Dx2sIB-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="675" y="625" as="sourcePoint" />
-            <mxPoint x="100" y="625" as="targetPoint" />
+        <mxCell id="W9O-gjuGux6550Dx2sIB-27" value="[Porcentagem acima de 80%]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-28" value="Sem ação necessária" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;exitX=1;exitY=0.846;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W9O-gjuGux6550Dx2sIB-18" target="aM9ryv3xv72pqoxQDRHE-1">
+          <mxGeometry x="0.0843" relative="1" as="geometry">
+            <mxPoint x="240" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="680" />
+            </Array>
+            <mxPoint x="445" y="680" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W9O-gjuGux6550Dx2sIB-24" value="Envia notificação" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W9O-gjuGux6550Dx2sIB-23">
-          <mxGeometry x="0.0588" y="-2" relative="1" as="geometry">
-            <mxPoint y="-13" as="offset" />
+        <mxCell id="W9O-gjuGux6550Dx2sIB-32" value="Envia notificação" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=1;entryY=0.308;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0848" relative="1" as="geometry">
+            <mxPoint x="90" y="620" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="420" y="620" />
+              <mxPoint x="185" y="620" />
+            </Array>
+            <mxPoint x="680" y="620.04" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="720" as="sourcePoint" />
+            <mxPoint x="690" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="720" />
+              <mxPoint x="250" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W9O-gjuGux6550Dx2sIB-34" value="[Porcentagem abaixo de 80%]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="720" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
