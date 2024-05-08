@@ -72,9 +72,7 @@
 
 # Diagrama de Casos de Uso
 
-Tirar "boneco" instituição. Colocar na descrição a explicação da análise do histórico de presenças (feita pelo próprio sistema, e disponivel para os gestores/diretores/quem quiser visualizarem).
-
-![Diagrama de Caso de Uso drawio (2)](https://github.com/cc4semestre/projeto/assets/161724108/64bb96ab-efba-4da9-8c08-df84802c04cd)
+![Diagrama de Caso de Uso drawio](https://github.com/cc4semestre/projeto/assets/99357352/4f2335fa-cd6b-4628-98ec-c578fb70e8b6)
 
 
 # Descrição dos Casos de Uso
