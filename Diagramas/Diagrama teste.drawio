@@ -1,54 +1,37 @@
-classDiagram
-    class Professor {
-        +String nome
-        +String id
-        +logIn(credenciais)
-        +selecionarTurma(idTurma)
-        +marcarPresenca(idAluno, status)
-        +logOut()
-    }
-
-    class Aluno {
-        +String nome
-        +String id
-        +List presencas
-        +atualizarPresenca(status)
-        +obterPorcentagemPresenca() : float
-    }
-
-    class Responsavel {
-        +String nome
-        +String id
-        +List notificacoes
-        +receberNotificacao(mensagem)
-    }
-
-    class Sistema {
-        +List turmas
-        +BancoDeDados bd
-        +logIn(credenciaisUsuario)
-        +exibirTurmas()
-        +atualizarPresenca(idAluno, status)
-        +calcularPorcentagem()
-        +notificarBaixaPresenca(idAluno)
-        +logOut(idUsuario)
-    }
-
-    class BancoDeDados {
-        +List alunos
-        +List registrosPresenca
-        +verificarCredenciais(idUsuario, senha)
-        +obterListaAlunos(idTurma)
-        +atualizarRegistroPresenca(idAluno, data, status)
-        +obterPorcentagemPresenca(idAluno)
-    }
-
-    class SistemaDeNotificacao {
-        +enviarNotificacao(idAluno, mensagem)
-    }
-
-    Professor "1" -- "1" Sistema : utiliza >
-    Sistema "1" -- "*" BancoDeDados : interage >
-    Sistema "1" -- "*" SistemaDeNotificacao : envia notificações >
-    Aluno "*" -- "1" Turma : frequenta >
-    Responsavel "1" -- "*" SistemaDeNotificacao : recebe notificações >
+<mxfile host="app.diagrams.net" modified="2024-05-09T13:19:23.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="kQXaF2qxdaOnk_7r0vYF" version="24.3.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="677" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- Professor Class -->
+        <mxCell id="professor" value="Professor" style="swimlane;startSize=26;" parent="1" vertex="1">
+          <mxGeometry x="50" y="50" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="professorName" value="+nome: String" style="text" parent="professor" vertex="1">
+          <mxGeometry y="30" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="professorId" value="+id: String" style="text" parent="professor" vertex="1">
+          <mxGeometry y="60" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="professorMethods" value="+logIn(credenciais)&#xa;+selecionarTurma(idTurma)&#xa;+marcarPresenca(idAluno, status)&#xa;+logOut()" style="text" parent="professor" vertex="1">
+          <mxGeometry y="90" width="200" height="80" as="geometry" />
+        </mxCell>
+        <!-- Sistema Class -->
+        <mxCell id="sistema" value="Sistema" style="swimlane;startSize=26;" parent="1" vertex="1">
+          <mxGeometry x="300" y="50" width="200" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sistemaAttributes" value="+turmas: List&#xa;+bd: BancoDeDados" style="text" parent="sistema" vertex="1">
+          <mxGeometry y="30" width="200" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="sistemaMethods" value="+logIn(credenciaisUsuario)&#xa;+exibirTurmas()&#xa;+atualizarPresenca(idAluno, status)&#xa;+calcularPorcentagem()&#xa;+notificarBaixaPresenca(idAluno)&#xa;+logOut(idUsuario)" style="text" parent="sistema" vertex="1">
+          <mxGeometry y="90" width="200" height="150" as="geometry" />
+        </mxCell>
+        <!-- Relacionamento -->
+        <mxCell id="relation1" style="edgeStyle=orthogonalEdgeStyle;curved=0;endArrow=none;" parent="1" source="professor" target="sistema" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
