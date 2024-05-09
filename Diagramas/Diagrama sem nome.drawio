@@ -32,7 +32,7 @@
         <mxCell id="alunoPresencas" value="+presencas: List" style="text" parent="aluno" vertex="1">
           <mxGeometry y="90" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="profLine" value="" style="line;strokeWidth=2;" parent="professor" vertex="1">
+        <mxCell id="alunoLine" value="" style="line;strokeWidth=2;" parent="professor" vertex="1">
           <mxGeometry y="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="alunoMethods" value="+atualizarPresenca(status)&#xa;+obterPorcentagemPresenca(): float" style="text" parent="aluno" vertex="1">
@@ -50,7 +50,7 @@
         <mxCell id="respNotif" value="+notificacoes: List" style="text" parent="responsavel" vertex="1">
           <mxGeometry y="90" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="profLine" value="" style="line;strokeWidth=2;" parent="professor" vertex="1">
+        <mxCell id="respLine" value="" style="line;strokeWidth=2;" parent="professor" vertex="1">
           <mxGeometry y="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="respMethods" value="+receberNotificacao(mensagem)" style="text" parent="responsavel" vertex="1">
@@ -65,7 +65,7 @@
         <mxCell id="sistBD" value="+bd: BancoDeDados" style="text" parent="sistema" vertex="1">
           <mxGeometry y="60" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="profLine" value="" style="line;strokeWidth=2;" parent="professor" vertex="1">
+        <mxCell id="sisLine" value="" style="line;strokeWidth=2;" parent="professor" vertex="1">
           <mxGeometry y="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="sistMethods" value="+logIn(credenciaisUsuario)&#xa;+exibirTurmas()&#xa;+atualizarPresenca(idAluno, status)&#xa;+calcularPorcentagem()&#xa;+notificarBaixaPresenca(idAluno)&#xa;+logOut(idUsuario)" style="text" parent="sistema" vertex="1">
@@ -80,7 +80,7 @@
         <mxCell id="bancoPresencas" value="+registrosPresenca: List" style="text" parent="banco" vertex="1">
           <mxGeometry y="60" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="profLine" value="" style="line;strokeWidth=2;" parent="professor" vertex="1">
+        <mxCell id="bancoLine" value="" style="line;strokeWidth=2;" parent="professor" vertex="1">
           <mxGeometry y="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="bancoMethods" value="+verificarCredenciais(idUsuario, senha)&#xa;+obterListaAlunos(idTurma)&#xa;+atualizarRegistroPresenca(idAluno, data, status)&#xa;+obterPorcentagemPresenca(idAluno)" style="text" parent="banco" vertex="1">
@@ -89,7 +89,7 @@
         <mxCell id="notificacao" value="SistemaDeNotificacao" style="swimlane;startSize=26;" parent="1" vertex="1">
           <mxGeometry x="50" y="730" width="220" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="profLine" value="" style="line;strokeWidth=2;" parent="professor" vertex="1">
+        <mxCell id="notifLine" value="" style="line;strokeWidth=2;" parent="professor" vertex="1">
           <mxGeometry y="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="notifMethods" value="+enviarNotificacao(idAluno, mensagem)" style="text" parent="notificacao" vertex="1">
