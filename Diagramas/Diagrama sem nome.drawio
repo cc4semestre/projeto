@@ -4,20 +4,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="professor" value="Professor" style="swimlane;startSize=26;" parent="1" vertex="1">
-          <mxGeometry x="50" y="50" width="220" height="240" as="geometry" />
+        <!-- Classe Professor -->
+        <mxCell id="professor" value="Professor" style="swimlane;startSize=30;horizontal=1;swimlaneFillColor=#DDEEFF;fillColor=#FFFFFF;strokeColor=#000000;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="240" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="profName" value="+nome: String" style="text" parent="professor" vertex="1">
-          <mxGeometry y="30" height="26" as="geometry" />
+        <!-- Atributos -->
+        <mxCell id="profAttr" value="+nome: String&#xa;+id: String" style="text;spacingLeft=4;" parent="professor" vertex="1">
+          <mxGeometry y="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="profId" value="+id: String" style="text" parent="professor" vertex="1">
-          <mxGeometry y="60" height="26" as="geometry" />
-        </mxCell>
+        <!-- Linha divisória -->
         <mxCell id="profLine" value="" style="line;strokeWidth=2;" parent="professor" vertex="1">
           <mxGeometry y="90" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="profMethods" value="+logIn(credenciais)&#xa;+selecionarTurma(idTurma)&#xa;+marcarPresenca(idAluno, status)&#xa;+logOut()" style="text" parent="professor" vertex="1">
-          <mxGeometry y="90" height="150" as="geometry" />
+        <!-- Métodos -->
+        <mxCell id="profMethods" value="+logIn(credenciais)&#xa;+selecionarTurma(idTurma)&#xa;+marcarPresenca(idAluno, status)&#xa;+logOut()" style="text;spacingLeft=4;" parent="professor" vertex="1">
+          <mxGeometry y="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="aluno" value="Aluno" style="swimlane;startSize=26;" parent="1" vertex="1">
           <mxGeometry x="300" y="50" width="220" height="240" as="geometry" />
