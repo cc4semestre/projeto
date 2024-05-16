@@ -93,8 +93,7 @@ Refazer a tabela no Excel. Fazer o espaçamento e separar as partes (fluxos), de
 
 # Diagrama de Classes
 
-![image](https://github.com/cc4semestre/projeto/assets/99357352/2d2101f7-497c-4cb0-a1e0-c4668437f818)
-
+![Diagrama de Classe](https://github.com/cc4semestre/projeto/assets/99357352/5eb88b14-e44c-44e7-8b90-9bb068c28050)
 
 # Diagrama de Estados
 
