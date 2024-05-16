@@ -87,7 +87,7 @@ Refazer a tabela no Excel. Fazer o espaçamento e separar as partes (fluxos), de
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![image](https://github.com/cc4semestre/projeto/assets/99357352/6207fe9c-b993-47fd-9268-683b9b0d2db2)
 
 # Diagrama de Classes
 
