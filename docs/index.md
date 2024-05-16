@@ -91,7 +91,8 @@ Refazer a tabela no Excel. Fazer o espaçamento e separar as partes (fluxos), de
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![image](https://github.com/cc4semestre/projeto/assets/99357352/2d2101f7-497c-4cb0-a1e0-c4668437f818)
+
 
 # Diagrama de Estados
 
