@@ -87,7 +87,9 @@ Refazer a tabela no Excel. Fazer o espaçamento e separar as partes (fluxos), de
 
 # Diagrama de Sequência
 
-![image](https://github.com/cc4semestre/projeto/assets/99357352/6207fe9c-b993-47fd-9268-683b9b0d2db2)
+![Diagrama de Sequencia certo](https://github.com/cc4semestre/projeto/assets/99357352/4421de38-f329-4ca0-82cf-0ff9d6d8954f)
+
+
 
 # Diagrama de Classes
 
