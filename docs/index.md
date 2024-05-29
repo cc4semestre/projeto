@@ -90,14 +90,13 @@ Refazer a tabela no Excel. Fazer o espaçamento e separar as partes (fluxos), de
 ![Diagrama de Sequencia certo](https://github.com/cc4semestre/projeto/assets/99357352/4421de38-f329-4ca0-82cf-0ff9d6d8954f)
 
 
-
 # Diagrama de Classes
 
 ![Diagrama de Classe](https://github.com/cc4semestre/projeto/assets/99357352/5eb88b14-e44c-44e7-8b90-9bb068c28050)
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![Diagrama de estados drawio](https://github.com/cc4semestre/projeto/assets/99357352/d2d28fe5-a7a0-40b1-ac32-123e1ff1ad6d)
 
 # Diagrama de Implantação
 
