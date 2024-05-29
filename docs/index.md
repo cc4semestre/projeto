@@ -100,7 +100,8 @@ Refazer a tabela no Excel. Fazer o espaçamento e separar as partes (fluxos), de
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![Diagrama de implementação drawio](https://github.com/cc4semestre/projeto/assets/99357352/90af36d5-de05-4807-8979-13a857eb716d)
+
 
 # Referências
 
