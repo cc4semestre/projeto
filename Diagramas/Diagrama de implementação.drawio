@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T20:39:38.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 CCleaner/124.0.0.0" version="24.3.1" etag="8ju4mCznJrT_MUYEdpID" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T21:19:25.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 CCleaner/124.0.0.0" etag="7cmjmkdnO-I0fW_Kfbxg" version="24.4.10" type="github">
   <diagram name="Página-1" id="RpFWXeUkQCwlLJSxUXfq">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MDB3MuM7bu7z7roXhhHN-1" value="Cliente&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="60" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MDB3MuM7bu7z7roXhhHN-2" value="Navegador Web" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MDB3MuM7bu7z7roXhhHN-3" value="&lt;div&gt;Sistema de Registro de Presença&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MDB3MuM7bu7z7roXhhHN-4" value="Serviço de Registro" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MDB3MuM7bu7z7roXhhHN-5" value="Banco de dados presença" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MDB3MuM7bu7z7roXhhHN-6" value="Serviço de aplicação" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MDB3MuM7bu7z7roXhhHN-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.61;exitY=1.08;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.62;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MDB3MuM7bu7z7roXhhHN-4" target="MDB3MuM7bu7z7roXhhHN-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="160" y="280" as="sourcePoint" />
+            <mxPoint x="320" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDB3MuM7bu7z7roXhhHN-9" value="Aplicação Web" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MDB3MuM7bu7z7roXhhHN-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0;exitDx=120;exitDy=95;exitPerimeter=0;entryX=-0.008;entryY=0.528;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MDB3MuM7bu7z7roXhhHN-1" target="MDB3MuM7bu7z7roXhhHN-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="230" as="sourcePoint" />
+            <mxPoint x="490" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDB3MuM7bu7z7roXhhHN-11" value="&lt;div&gt;Servidor de Notificações&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MDB3MuM7bu7z7roXhhHN-12" value="Serviço de Notificações" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
